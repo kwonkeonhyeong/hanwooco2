@@ -21,19 +21,31 @@ http://hanwooco2.com
 ## 프로젝트 접속 시 화면
 
 
+
+
 - 메인화면
 
 
-<img width="881" alt="공모전-한우탄소계산기 화면1" src="https://github.com/kwonkeonhyeong/hanwooco2/assets/138849238/3c8a13fb-15df-46a4-af25-7071e29ef69c">
+
+
+<img width="1353" alt="공모전 화면 1" src="https://github.com/kwonkeonhyeong/hanwooco2/assets/138849238/58073baa-4335-4367-b811-924f5c1564e9">
+
+
 
 
 - 검색 중 로딩 화면
 
 
-<img width="998" alt="공모전 화면 2" src="https://github.com/kwonkeonhyeong/hanwooco2/assets/138849238/45081acf-4c06-4d9a-a936-ece09717787a">
+
+
+<img width="1148" alt="공모전 화면 2" src="https://github.com/kwonkeonhyeong/hanwooco2/assets/138849238/443498ca-fcab-4922-9119-a094c5a0b8eb">
+
+
 
 
 - 검색 결과 및 다시계산하기 화면
 
 
-<img width="374" alt="공모전 계산 결과 화면" src="https://github.com/kwonkeonhyeong/hanwooco2/assets/138849238/a20c9c79-3248-4230-b327-c793b62b7865">
+
+
+<img width="1280" alt="공모전 화면 3" src="https://github.com/kwonkeonhyeong/hanwooco2/assets/138849238/993d94ff-2f83-45f4-9750-821b39d19b5d">
